@@ -1,5 +1,5 @@
 {
-  "name": "@finsweet/developer-starter",
+  "name": "@svinsterwald/starter-webflow",
   "version": "1.0.0",
   "description": "Developer starter template for Finsweet projects.",
   "homepage": "https://github.com/finsweet/developer-starter#readme",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/finsweet/developer-starter.git"
+    "url": "git+https://github.com/svinsterwald/starter-webflow.git"
   },
   "bugs": {
     "url": "https://github.com/finsweet/developer-starter/issues"
